@@ -1,4 +1,4 @@
-print("a sample text added")
+print("i added this shit to get merge conflict")
 print("again added")
 print("Day 1 - Python Print Function")
 print("The function is declared like this:")
