@@ -1,4 +1,4 @@
-print("a sample text added")
+print("this is added in master")
 print("again added")
 print("Day 1 - Python Print Function")
 print("The function is declared like this:")
