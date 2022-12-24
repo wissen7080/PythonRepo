@@ -1,4 +1,6 @@
+print("a sample text added")
+print("again added")
 print("Day 1 - Python Print Function")
 print("The function is declared like this:")
 print("print('what to print')")
-print("added new line of code in dev branch)
+print("changes in branch")
